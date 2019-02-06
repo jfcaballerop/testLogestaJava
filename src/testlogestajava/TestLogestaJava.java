@@ -16,7 +16,8 @@ public class TestLogestaJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Test Logesta Ismael asdfasdfasdf");
+        System.out.println("Test Logesta Ismael commit de martin");
+
     }
     
 }
