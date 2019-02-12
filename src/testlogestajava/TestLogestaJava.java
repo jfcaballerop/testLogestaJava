@@ -18,7 +18,7 @@ public class TestLogestaJava {
         // TODO code application logic here
 
         System.out.println("Prueba conflicto con ismael desde martin");
-
+        System.out.println("GIT es muy bonito");
 
     }
     
