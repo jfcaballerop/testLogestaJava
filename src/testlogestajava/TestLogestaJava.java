@@ -16,7 +16,6 @@ public class TestLogestaJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("GIT es muy bonito");
         System.out.println("Ese GIT como mola, se merece una ola!!!");
         System.out.println("No seas GITano, Martín");
     }
